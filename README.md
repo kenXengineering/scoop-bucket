@@ -1,3 +1,3 @@
-# homebrew-tap
+# Scoop bucket
 
-A selection of homebrew taps for things I wrote or updated
+A selection of Scoop buckets for things I wrote or updated
