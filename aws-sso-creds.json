@@ -2,18 +2,18 @@
     "version": "2.0.0",
     "architecture": {
         "64bit": {
-            "url": "http://github.com/jaxxstorm/aws-sso-creds/releases/download/v2.0.0/aws-sso-creds-v2.0.0-windows-amd64.zip",
+            "url": "http://github.com/kenXengineering/aws-sso-creds/releases/download/v2.0.0/aws-sso-creds-v2.0.0-windows-amd64.zip",
             "bin": [
                 "aws-sso-creds.exe"
             ],
-            "hash": "868bfadc2d0fbb9a392b0f13c282679544aeb4072e1e72d71d04f423f3dbfab3"
+            "hash": "4aeaf2110a1f458d606c3916c2c93341c320072080bd464c39bde23ea5b2e2ad"
         },
         "arm64": {
-            "url": "http://github.com/jaxxstorm/aws-sso-creds/releases/download/v2.0.0/aws-sso-creds-v2.0.0-windows-arm64.zip",
+            "url": "http://github.com/kenXengineering/aws-sso-creds/releases/download/v2.0.0/aws-sso-creds-v2.0.0-windows-arm64.zip",
             "bin": [
                 "aws-sso-creds.exe"
             ],
-            "hash": "913c212f85eb102a92fb17b4338de5f9b79ad26564d0fbca46bc87ff2de51bd5"
+            "hash": "845b9e90c75a1d3f322356cfffc5362a3fd56751341d9b0d8a589bd1a35af39b"
         }
     },
     "homepage": "https://google.com/",
